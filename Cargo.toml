@@ -1,0 +1,8 @@
+[package]
+name = "rs-leastsquare"
+version = "0.1.0"
+authors = ["Dirk Schumacher <mail@dirk-schumacher.net>"]
+edition = "2018"
+
+[dependencies]
+nalgebra = "0.18.0"
